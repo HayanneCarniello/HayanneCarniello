@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+
+
+
 ✨✨ It's a pleasure meet you here!  ✨✨
+
+
 
 
 👩🏻‍💻⚖️ Who is Hayanne as a **professional**?
@@ -11,10 +16,15 @@ A professional with a background in Law, a researcher and programmer. My experie
 Click here 👉 [Linkedin](www.linkedin.com/in/hayanne-rodrigues-carniello-cavalcante)
 
 
+
+
 👩🏻‍💻 Who is Hayanne as a **person**?
 
 
 I am a **creative** and **artistic person**. I am interested and my hobby is painting. I like to solve **problems objectively**. But at the same time, I like to discuss different topics in an open and respectful way. Feel free to chat with me about any topic! I am in favor of a diverse, equitable and inclusive world, and we can use technology as a solution.
+
+
+
 
 
 ☕️ Please, feel free to contact me.
