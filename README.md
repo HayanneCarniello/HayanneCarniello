@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+---------------------------------------------------------------------------------------------------------------
 
 
 
 
-✨✨ It's a pleasure meet you here!  ✨✨
+✨✨ It's a pleasure to meet you here!  ✨✨
 
 
 
@@ -11,7 +12,7 @@
 👩🏻‍💻⚖️ Who is Hayanne as a **professional**?
 
 
-A professional with a background in Law, a researcher and programmer. My experience covers both the legal and technological fields. In Law, I worked in customer service, **problem resolution** and **deadline management**. At the same time, as a researcher, I sought to expand my knowledgem, and I learned to develop my **investigative** and **self-taught thinking**. The subject of Digital Law instigated my interest in technology and, as a programmer, I use my skills to develop solutions. Now, I am in the process of a career transition, studying about **Data** and **Web and Mobile Development**.
+A professional with a background in Law, research, and programming. My experience covers both the legal and technological fields. In Law, I worked in customer service, **problem resolution** and **deadline management**. The subject of Digital Law instigated my interest in technology and, as a programmer, I use my skills to develop solutions. Now, I am in the process of a career transition, studying **Data** and **Web and Mobile Development**. Currently, I'm studying Systems Analysis and Development.
 
 Click here 👉 [Linkedin](https://www.linkedin.com/in/hayanne-rodrigues-carniello-cavalcante)
            👉 [Portfolio](https://www.datascienceportfol.io/hayannnecarniello)
@@ -34,5 +35,5 @@ I am a **creative** and **artistic person**. I am interested and my hobby is pai
 #DataAnalysis #Statistics #Python #SQL #HTML #CSS #JavaScript #Communication #Education #Law
 
 Contact me: 
-✉️📥 hayannecarniel@gmail.com
+💌 hayannecarniel@gmail.com
 
