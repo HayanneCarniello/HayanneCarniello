@@ -1,5 +1,5 @@
-## Hi there 👋
----------------------------------------------------------------------------------------------------------------
+## 🖖 Hi there
+-----------------------------------------------------------------------------
 
 
 
@@ -19,21 +19,10 @@ Click here 👉 [Linkedin](https://www.linkedin.com/in/hayanne-rodrigues-carniel
 
 
 
-👩🏻‍💻 Who is Hayanne as a **person**?
-
-
-I am a **creative** and **artistic person**. I am interested and my hobby is painting. I like to solve **problems objectively**. But at the same time, I like to discuss different topics in an open and respectful way. Feel free to chat with me about any topic! I am in favor of a diverse, equitable and inclusive world, and we can use technology as a solution.
+🦄 Languages: Python, HTML, CSS, Javascript.
 
 
 
-
-
-☕️ Please, feel free to contact me.
-
-
-
-#DataAnalysis #Statistics #Python #SQL #HTML #CSS #JavaScript #Communication #Education #Law
-
-Contact me: 
+Please, feel free to contact me.
 💌 hayannecarniel@gmail.com
 
