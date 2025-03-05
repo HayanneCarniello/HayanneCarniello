@@ -19,10 +19,10 @@ Click here 👉 [Linkedin](https://www.linkedin.com/in/hayanne-rodrigues-carniel
 
 
 
-🦄 Languages: Python, HTML, CSS, Javascript.
+🦄 Languages: Python, HTML, CSS, Javascript, C#.
+🪛 Dynamics 365 CRM, Power Automate (basic)
 
 
 
 Please, feel free to contact me.
-💌 hayannecarniel@gmail.com
 
